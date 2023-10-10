@@ -1,0 +1,7 @@
+name = "MyStatsPackage"
+uuid = "ed533660-175a-4339-8fe4-203787bc748f"
+authors = ["manuel-alvarez-chaves <manuel.alvarez-chaves@simtech.uni-stuttgart.de>"]
+version = "0.1.0"
+
+[deps]
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
