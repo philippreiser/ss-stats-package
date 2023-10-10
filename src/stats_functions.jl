@@ -60,3 +60,8 @@ function length(x::StatResult)
     println("The true length of the StatResult is: $(x.n)")
     return 666
 end
+
+# ---
+function printOwner()
+    println("The owner of this repo is Manuel :)")
+end
