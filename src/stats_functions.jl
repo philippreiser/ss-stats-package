@@ -65,3 +65,7 @@ end
 function printOwner()
     println("The owner of this repo is Manuel :)")
 end
+
+function printContributer()
+    println("A contributer of this repo is Philipp :)")
+end
